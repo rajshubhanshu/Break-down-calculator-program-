@@ -1,16 +1,26 @@
-# Break-down-calculator-program-
-my basis calculator program in python 
-Graphical User Interface (GUI): The calculator uses a simple and user-friendly window built with Tkinter.
-Number Input: Users can enter two numbers for calculation.
-Operator Dropdown: Users can select the operator (+, -, *, /) from a dropdown menu.
-Calculation: Performs addition, subtraction, multiplication, or division based on the selected operator.
-Division by Zero Handling: Shows an error message if the user tries to divide by zero.
-Invalid Input Handling: Shows an error message if the user enters invalid numbers.
-Result Display: The result of the calculation is displayed in a read-only textbox.
-Graphical User Interface (GUI): The calculator uses a simple and user-friendly window built with Tkinter.
-Number Input: Users can enter two numbers for calculation.
-Operator Dropdown: Users can select the operator (+, -, *, /) from a dropdown menu.
-Calculation: Performs addition, subtraction, multiplication, or division based on the selected operator.
-Division by Zero Handling: Shows an error message if the user tries to divide by zero.
-Invalid Input Handling: Shows an error message if the user enters invalid numbers.
-Result Display: The result of the calculation is displayed in a read-only textbox.
+# Break-Down Calculator Program
+
+A simple Python-based calculator with a graphical user interface (GUI) built using **Tkinter**.
+
+## Features
+
+- **Graphical User Interface (GUI)**  
+  Built with Tkinter for a simple, user-friendly experience.
+
+- **Number Input**  
+  Users can input two numbers for performing calculations.
+
+- **Operator Selection**  
+  A dropdown menu allows users to select an arithmetic operation: `+`, `-`, `*`, or `/`.
+
+- **Basic Arithmetic Operations**  
+  Supports addition, subtraction, multiplication, and division.
+
+- **Division by Zero Handling**  
+  Displays an error message if the user attempts to divide by zero.
+
+- **Invalid Input Handling**  
+  Detects and alerts the user when non-numeric inputs are entered.
+
+- **Result Display**  
+  The output of the calculation is shown in a read-only text box for clarity.
